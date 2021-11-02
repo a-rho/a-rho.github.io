@@ -1,12 +1,30 @@
 ---
-title: "Lab3 stuff"
-author: "ARho"
-date: "9/15/2021"
-output: html_document
+title: ' '
+pagetitle: 'Your Name'
+output: 
+  html_document: 
+    css: "styles.css"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{R echo=F, eval=F}
+#to build this website into the _site directory, run
+rmarkdown::site_generator()
 ```
+ 
+<img src="anita.jpg" style=width:40% class="img-circle">
 
-## Placeholder for website
+<br>
+
+# Welcome! I am Anita. 
+  
+</br>
+
+##### I am a 3rd year student at the University of Texas at Austin.
+
+##### I am a Biology (genetics/genomics option) major and Economics Minor. 
+
+##### I very much enjoy plants, puzzles, and photography!  
+
+##### I don't have any data-related projects either, but if I did you could find them [here](/portfolio)!
+
+---

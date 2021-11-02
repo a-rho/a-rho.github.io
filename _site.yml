@@ -1,0 +1,16 @@
+name: "Anita Rhodes"
+navbar:
+  title: "My Site"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Portfolio"
+      href: portfolio.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<anita.rhodes@utexas.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/a-rho/
+    - icon: fa-linkedin fa-lg
+      href: www.linkedin.com/in/anitarhodes
+      
