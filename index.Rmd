@@ -25,6 +25,6 @@ rmarkdown::site_generator()
 
 ##### I very much enjoy plants, puzzles, and photography!  
 
-##### I don't have any data-related projects either, but if I did you could find them [here](/portfolio)!
+##### You can find my data-related projects [here](/portfolio)!
 
 ---
