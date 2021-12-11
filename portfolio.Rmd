@@ -15,12 +15,12 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 <br>
 
-- <i class="fa fa-chart-line"> </i> [Project 1: Description](https://a-rho.github.io/project1/)
+- <i class="fa fa-chart-line"> </i> [Project 1: Wrangling, Exploration, Visualization](https://a-rho.github.io/project1/)
 
-    - Longer Description
+    - Wrangling, exploration, and visualization of a merged dataset containing information of popular and Oscar winning/nominated movies.
 
 <br>
 
-- <i class="fa fa-chart-pie"> </i> [Project 2: Description](https://www.google.com)
+- <i class="fa fa-chart-pie"> </i> [Project 2: Data Mining and Prediction](https://a-rho.github.io/project2)
 
-    - Longer Description
+    - Data mining and prediction for crab measurements, weights, age, and sex.
